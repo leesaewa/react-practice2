@@ -6,6 +6,7 @@
 
 - coin 앱 만들기 준비
 - styles 설치
+- createGlobalStyle
 - 다크모드, 라이트모드 없애고 한 가지 theme로 만듦
 
 ### 230207
